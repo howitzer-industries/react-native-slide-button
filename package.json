@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/sreejithr/react-native-slide-button/issues"
   },
-  "homepage": "https://github.com/sreejithr/react-native-slide-button#readme"
+  "homepage": "https://github.com/sreejithr/react-native-slide-button#readme",
+  "dependencies": {
+    "dimensions": "^0.1.0"
+  }
 }
